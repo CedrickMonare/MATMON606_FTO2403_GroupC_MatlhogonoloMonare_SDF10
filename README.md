@@ -15,7 +15,7 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 [The main components of an API include:
 *Endpoints - An endpoint's role is to enable communication between clients and servers in distributed software systems.
 *Request Methods - A request method's role is to define the operations that clients can perform on the resources exposed by the API and have characteristics such as (GET, PUT, DELETE) which influence how clients interact with the API and how servers handle requests.
-*Data Formats - It's role is arrange data into a specific format suitable for transmission over a network or storage. This involves converting complex data structures such as objects or arrays into a format that can be easily transmitted, such as JSON or XML.
+*Data Formats - It's role is to arrange data into a specific format suitable for transmission over a network or storage. This involves converting complex data structures such as objects or arrays into a format that can be easily transmitted, such as JSON or XML.
 
 I think I find the web API the most useful because it allows different systems and applications to communicate with each other regardless of their technologies or programming languages, it can handle a large number of requests making it suitable for serving a wide range of clients and also because it is flexible allowing any platform that supports HTTP requests including web browsers and mobile devices to access it.]
 
